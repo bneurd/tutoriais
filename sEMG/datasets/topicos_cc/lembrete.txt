@@ -1,0 +1,5 @@
+Dados dos participantes:
+
+p1: Michel (Aluno BCC)
+p2: Luis Otávio (Aluno BCC)
+p3: Rogério Aparecido Gonçalves (Professor)
