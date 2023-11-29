@@ -13,7 +13,7 @@ def main(argv):
     srate = 200
     name = 'OpenBCI'
     type = 'EOG'
-    n_channels = 4
+    n_channels = 2
     help_string = 'send_data.py -s <sampling_rate> -n <stream_name> -t <stream_type>'
     try:
         opts, args = getopt.getopt(argv, "hs:c:n:t:", longopts=["srate=", "channels=", "name=", "type"])

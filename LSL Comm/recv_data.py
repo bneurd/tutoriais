@@ -31,6 +31,7 @@ def main():
         sleep(T_REST)
     trial = np.array(trial[1:])
     print(f"\nDimensionalidade: {trial.shape}")
+    np.save("Gabi.npy", trial)
 
 
 if __name__ == '__main__':
