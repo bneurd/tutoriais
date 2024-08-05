@@ -137,3 +137,6 @@ etc/
 
 # execução
 **temp_data/
+
+# Jupyter Notebook em sala
+Focus/base/*
